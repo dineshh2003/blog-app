@@ -1,6 +1,6 @@
 
 import '../home/home.css';
-import Header from '../../header/Header';
+import Header from '../../components/header/Header';
 import SideBar from '../../components/sidebar/SideBar';
 import Posts from '../../components/posts/Posts';
 

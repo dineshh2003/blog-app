@@ -6,8 +6,8 @@ export default function SideBar() {
         <div className="sideBarItem">
             <span className="sibeBarTitle">About Me</span>
             <img 
-            style={{height:'300px' , width:'30vw', objectFit: 'cover'}}
-            src="https://cdn.pixabay.com/photo/2015/11/16/16/28/bird-1045954_640.jpg"
+            // style={{height:'200px' , width:'30vw', objectFit: 'cover'}}
+            src=""
             alt="" />
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Id impedit voluptatem blanditiis dolore quaerat possimus vero nobis, perferendis aspernatur molestias rem quo explicabo praesentium error inventore modi corrupti eum dignissimos.
