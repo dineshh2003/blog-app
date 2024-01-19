@@ -8,7 +8,7 @@ import Register from "./pages/register/Register";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
-  const user = false;
+  const user = true;
 
   return (
     <div className="App">
